@@ -6,6 +6,3 @@ A program that recognizes characters or words written from google draw. It is ab
 
 # Author
 Alan Sun - Initial work - ACCount-Nine38
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details 
